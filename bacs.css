@@ -1,0 +1,15 @@
+h1 { 
+    color: green; 
+    background-color: gray;
+}
+
+a { 
+    color: red;
+}
+
+li {
+    color: green;
+}
+<head>
+    <link rel="stylesheet" href="bacs.css">
+</head>
