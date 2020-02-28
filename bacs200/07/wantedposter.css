@@ -1,41 +1,44 @@
-
+header { 
+   border: solid 1px black;
+   text-align: center;
+   margin-bottom: 30px;
+   background-color: whitesmoke;
+  border-radius: 10px;
+   font-family: ricochet;
+}
+main {
+    text-align: center;
+    border: solid 1px black;
+    background-color: beige;
+    border-radius: 10px
+}
 body {
     margin: 100px;
     border: solid 2px black;
     border: solid 3px black;
-    background-color: ;
-}
-h1 {
-  margin: 100p
-  font-family: "serif", Times, serif;
-  text-align: center;
-  background-color: whitesmoke;
-  font-family: serif;
-    font-size: 220%;
-}
-h2 {
-  font-family: "Times New Roman", Times, serif;
-  text-align: center;
-  background-color: whitesmoke
+    background-color: black;
+    border-radius: 10px,
+    font-family: western;
 }
 
 aside {
   float: right;
   margin: 5px;
-   width: 310px;
-   height: 130px;
-   border: solid 1px black;}
+  width: 360px;
+  height: 130px;
+  border: solid 1px black;
+  background-color: whitesmoke;
+  text-align: left;
+  box-shadow: 1px 1px 2px grey;
+}
+  
+  
+  
+section {
+    text-align: left;
+    margin: 10px;
+    margin-bottom: 70px
     
 }
 
-aside { width: 500px;
-    width: 150px;
-    height: 130px;
-    border: solid 1px black;}
 
-
-h1 {
-    width: 500px;
-    height: 100px;
-    border: solid 1px gray;
-}
