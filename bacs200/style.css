@@ -1,9 +1,18 @@
+body {
+    margin: 100px;
+    
+    background-color: whitesmoke;
+    border-radius: 10px,
+    
+}
 h1 {
     color: gold;
+    font-size: 40px;
+    text-align: center;
+    border-style: solid;
+    border-bottom: 500px
 }
-h1 {
-    border-style: solid
-}
+    
 
 h1 {
    background-color: navy;
@@ -11,3 +20,13 @@ h1 {
 
 ul:hover {color: goldenrod}
 ul:hover {background: white smoke}
+p {font: times new roman;
+  }
+header img {
+     max-width: 200px;
+    max-height: 150px;
+    margin: 20px;
+    border: 1px solid white;
+    box-shadow: 2px 2px 5px black;
+    float: right;
+    

@@ -3,14 +3,13 @@ header {
    text-align: center;
    margin-bottom: 30px;
    background-color: whitesmoke;
-  border-radius: 10px;
+
    font-family: ricochet;
 }
 main {
     text-align: center;
     border: solid 1px black;
     background-color: beige;
-    border-radius: 10px
 }
 body {
     margin: 100px;
