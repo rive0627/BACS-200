@@ -7,8 +7,9 @@ p,,ul,il {font-family: "arial";
     word-spacing: 2px;
     }
 
-mainheader {
-    color: gold;
+
+header a {
+     color: gold;
     font-size: 20px;
     text-align: left;
     border-style: solid;
